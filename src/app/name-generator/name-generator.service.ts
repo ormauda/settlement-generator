@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { OnInit } from '@angular/core/src/metadata/lifecycle_hooks';
 import { HttpClient } from '@angular/common/http';
 import { IWords } from './IWords';
 
